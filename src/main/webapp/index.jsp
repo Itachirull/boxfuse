@@ -3,10 +3,10 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>UHODI!</h1>
 <img src="boxfuse.png">
 
-<h2>TI PIDOR</h2>
+<h2>TI PIDOR </h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
@@ -30,7 +30,7 @@
     <strong>boxfuse ps</strong>
 </p>
 
-<P style="margin-bottom: 20px;">
+<P style="margin-bottom: 40px;">
     List all Bootable Apps:<br/>
     <strong>boxfuse ls</strong>
 </p>
